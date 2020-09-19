@@ -1,4 +1,4 @@
-# CS 262 - Lab 1
+### CS 262 - Lab 1
 
 This lab is based on the basic [hello-world Expo app](https://expo.io/learn)
 
