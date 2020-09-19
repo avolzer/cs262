@@ -1,4 +1,4 @@
-###CS 262 - Lab [2](https://cs.calvin.edu/courses/cs/262/kvlinden/02management/lab.html)
+### CS 262 - [Lab 2](https://cs.calvin.edu/courses/cs/262/kvlinden/02management/lab.html)
 
 Answers to the lab questions:
 * What is the name of the component in this application?
