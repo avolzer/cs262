@@ -1,0 +1,10 @@
+markers.js
+
+Fixed:
+Indentation levels
+Changed double to single quotes for strings
+Added missing semicolons
+Removed unused imports StyleSheet, Text, Dimensions, Modal, and Image
+
+Not fixed:
+Unexpected console statement (because it's useful to check values when running the app)
